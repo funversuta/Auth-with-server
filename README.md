@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
-
+### Open project then npm i, then open public/serv/ and npm i here too, then you can npm start both directoryies for work
 ### `npm start`
 
 Runs the app in the development mode.\
